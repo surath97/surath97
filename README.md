@@ -1,3 +1,6 @@
+![](assets/Bottom_up.svg)
+
+
 # About ME
 
 - 👋 Hi, I’m @surath97
