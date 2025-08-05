@@ -1,7 +1,7 @@
-name: GitHub Snake & Pac-Man Game
+name: GitHub Snake & Pac-Man Animations
 
 on:
-  # Schedule the workflow to run daily at midnight UTC
+  # Run daily at midnight UTC
   schedule:
     - cron: "0 0 * * *"
 
@@ -15,10 +15,10 @@ on:
 
 jobs:
   generate:
-    permissions:
-      contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 10
+    permissions:
+      contents: write
 
     steps:
       # Step 1: Checkout the repository
