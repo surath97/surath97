@@ -1,3 +1,5 @@
+<div align="center">
+
 ![](assets/Bottom_up.svg)
 
 <!--   my-header-img -->
@@ -6,8 +8,11 @@
 <!--   my-ticker -->    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=801&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Surath+Chathuranga+;Welcome+to+my+profile;Over+2+years+of+programming+experience;Always+learning+new+things;Full-stack+developer;But+front-end+enthusiast;Love+Coffee+%E2%98%95)](https://git.io/typing-svg)
 
+
 <!-- snake game -->
 ![snake gif](https://github.com/surath97/surath97/blob/output/github-snake-dark.svg)
+
+</div>
 
 
 # About ME
@@ -39,6 +44,14 @@
 <!-- <a href="https://api.whatsapp.com/send?phone=+375333333355" alt="Connect on Whatsapp"> <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> </a> -->
 </p>
 
+</br>
+
+### Profile Views
+counting of visitors to this page in this section started from Aug 1st, 2025
+
+![](https://count.getloli.com/get/@surath97.github.readme)
+</br>
+
 
 <!---
 surath97/surath97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -50,3 +63,4 @@ You can click the Preview link to take a look at your changes.
 
 
 ![](assets/Bottom_down.svg)
+
