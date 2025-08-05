@@ -27,6 +27,19 @@
  <br />
  <br />
 
+<div align="center">
+ <!-- Pac-man graph -->
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/surath97/surath97/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/surath97/surath97/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/surath97/surath97/output/pacman-contribution-graph.svg">
+</picture>
+
+</div>
+
+<br />
+<br />
+
 <!-- Github Status -->
 ![Surath's GitHub stats](https://github-readme-stats.vercel.app/api?username=surath97&show_icons=true&theme=radical)
 
