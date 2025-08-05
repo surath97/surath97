@@ -25,6 +25,10 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
+      # Step 1.5: Create dist directory
+      - name: Create dist directory
+        run: mkdir -p dist
+
       # Step 2: Generate the snake animations
       - name: Generate GitHub Contributions Snake Animations
         uses: Platane/snk@v3
