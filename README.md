@@ -1,5 +1,14 @@
 ![](assets/Bottom_up.svg)
 
+<!--   my-header-img -->
+![](./src/header_.png)
+
+<!--   my-ticker -->    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=801&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Surath+Chathuranga+;Welcome+to+my+profile;Over+2+years+of+programming+experience;Always+learning+new+things;Full-stack+developer;But+front-end+enthusiast;Love+Coffee+%E2%98%95)](https://git.io/typing-svg)
+
+<!-- snake game -->
+![snake gif](https://github.com/surath97/surath97/blob/output/github-snake-dark.svg)
+
 
 # About ME
 
