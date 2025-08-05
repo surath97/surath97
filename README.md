@@ -19,8 +19,34 @@
 - 📫 How to reach me: surathchathuranga97@gmail.com or via LinkedIn at [linkedin.com/in/surath97](https://www.linkedin.com/in/surath97/)
 - 🎓 Education: I have completed my Bachelor of Information Technology degree from the University of Colombo School of Computing.
 - ⚡ Fun fact: I once debugged a production issue at 3 AM while sipping coffee and listening to lo-fi beats..!
+ <br />
+ <br />
+
+<!-- Github Status -->
+![Surath's GitHub stats](https://github-readme-stats.vercel.app/api?username=surath97&show_icons=true&theme=radical)
+
+<!-- Language card -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surath97&layout=donut)
+
+<!-- Github streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=surath97"></img>
+
+## **📫 How to Reach me:**
+<p align="left">
+<!-- <a href="https://twitter.com/noname85071193" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/twitter.svg" alt="BEPb" height="30" width="30" /></a> -->
+<a href="https://www.linkedin.com/in/surath97" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/linkedin.svg" alt="in" height="40" width="40" /></a>
+<a href="mailto:surathchathuranga97@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="40" width="40" /></a>
+<!-- <a href="https://api.whatsapp.com/send?phone=+375333333355" alt="Connect on Whatsapp"> <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> </a> -->
+</p>
+
 
 <!---
 surath97/surath97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+
+
+
+![](assets/Bottom_down.svg)
