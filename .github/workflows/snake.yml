@@ -39,13 +39,15 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PAT_GITHUB }}
 
       # Step 3: Generate Pac-Man contribution graph
       - name: Generate Pac-Man Contribution Graph
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT_GITHUB }}
 
       # Step 4: Deploy both Snake and Pac-Man files to the 'output' branch
       - name: Deploy to Output Branch
